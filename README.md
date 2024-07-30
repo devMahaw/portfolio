@@ -1,30 +1,19 @@
-<h1 align="center">
-  :mortar_board: Portfolio :mortar_board:
-</h1>
+# Portfólio
 
-<p align="center">
-<a href="#-projeto">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias">Link</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-layout">Contato</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
+Projeto para meu portfólio.
 
-<br>
+## Tabela de Conteúdo
 
-## 💻 Resumo
+- [Visão Geral](#vis%C3%A3o-geral)
+- [Tecnologias Usadas](#tecnologias-usadas)
 
-Repositório para o meu portfólio, onde coloco alguns dos meu trabalhos, as linguagens e frameworks que utilizo e um pouco mais sobre os cursos que completei.
+## Visão Geral
 
+Nesse projeto há meu portfólio mostrando tudo que é preciso saber dos meus estudos e carreira.
 
-## :rocket: Link
+## Tecnologias Usadas
 
-Clique [aqui](https://christyschott.github.io/portfolio.github.io/) para abrir.
-
-## :telephone: Contato
-
-Para mais trabalhos acesse meu [LinkedIn](https://www.linkedin.com/in/christy-hauschild-0757431a4/) e outros repositórios aqui no GitHub. 
-
-Meu e-mail: christyhauschild@gmail.com
-
-Número de telefone: (51) 99658-5057
-
-
+- HTML
+- CSS
+- Javascript
+- Bootstrap
