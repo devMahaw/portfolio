@@ -90,6 +90,22 @@ nav h1 {
   color: #fed136;
 }
 
+div h5 {
+  text-align: center;
+}
+
+.mecontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.meimage {
+  width: 500px;
+  margin-bottom: 50px;
+}
+
 .toolimg {
   height: 100px;
 }
